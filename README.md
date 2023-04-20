@@ -4,7 +4,7 @@
 
 Projeto em React.js com estrutura fictícia para teste de modo Dark e Light 
 
-<i class="fa fa-star"></i>
+<i class="fas fa-star"></i>
 
 Vídeos de demonstração: https://www.linkedin.com/posts/o-giovanni-santos_nesse-projeto-fiz-um-conceito-de-dashboard-activity-6997307803958697984-XMb7?utm_source=share&utm_medium=member_desktop
 
