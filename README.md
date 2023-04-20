@@ -1,8 +1,9 @@
 #Dash You
+
 Projeto em React.js com estrutura fictícia para teste de modo Dark e Light 
-~~~
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-~~~
+
 <i class="fa fa-star"></i>
 
 Vídeos de demonstração: https://www.linkedin.com/posts/o-giovanni-santos_nesse-projeto-fiz-um-conceito-de-dashboard-activity-6997307803958697984-XMb7?utm_source=share&utm_medium=member_desktop
