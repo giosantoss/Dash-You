@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-1gR8Z1/A0M2rLjkA+GPcF8y6DfU6YzU6P4l4/v8ZzeCk3DBPdG00yyxgSgxlnKKiWYcV7FpzzIwzV7ZbnkDZAw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 # Dash You
 
