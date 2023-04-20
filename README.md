@@ -1,8 +1,8 @@
-#Dash You
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+# Dash You
 
 Projeto em React.js com estrutura fictícia para teste de modo Dark e Light 
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <i class="fa fa-star"></i>
 
